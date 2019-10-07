@@ -1,0 +1,3 @@
+How many teachers have tablets?
+How fast should the system log attendence?
+How will the kids "sign in"?
