@@ -1,1 +1,14 @@
 How many tablet teacher? When you mean better do you mean faster, more accurate, what does better mean? How often do you need these attendacne reports? How much slower does the wirless get when there are 40 more people? Does it get anymore slower past 40 people and does it have to be 40 before it gets slower?
+
+
+COUNTER:
+
+	Perhaps there are at least one?
+
+	More specifically, how can "better" be parameterized?
+
+	Should attendence be recorded daily?
+
+	Should we account for more then 40 people being online at once?
+
+	Can we accomodate 40 people at once? 
